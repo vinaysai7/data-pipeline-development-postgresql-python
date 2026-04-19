@@ -1,4 +1,4 @@
-# Retail Data Pipeline: ETL & Analytics Infrastructure
+# 🔄 Retail Data Pipeline: ETL & Analytics Infrastructure
 
 An automated ETL pipeline that transforms raw e-commerce transaction data into a structured analytics database. This solution enables real-time business intelligence by consolidating, cleaning, and modeling retail data for downstream reporting and analysis.
 
